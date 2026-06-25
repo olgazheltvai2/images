@@ -1,0 +1,12 @@
+{
+  "themes": {
+    "theme1": {
+      "name": "Фон 1",
+      "background": "https://olgazheltvai2.github.io/images/backgrounds/background_1.png"
+    },
+    "theme2": {
+      "name": "Фон 2",
+      "background": "https://olgazheltvai2.github.io/images/backgrounds/background_2.png"
+    }
+  }
+}
